@@ -21,8 +21,8 @@
         <activity android:name=".CustomerPage" />
         <activity android:name=".DisplayUsername" />
         <activity android:name=".LoginActivity" />
-        <activity android:name=".NewCustomer" />
-        <activity android:name=".SessionList"></activity>
+        <activity android:name=".SessionList" />
+        <activity android:name=".NewCustomer"></activity>
     </application>
 
 </manifest>
