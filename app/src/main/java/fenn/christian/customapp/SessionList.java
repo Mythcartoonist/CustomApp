@@ -10,7 +10,7 @@ public class SessionList extends FragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_session_list);
+        setContentView(R.layout.session_list);
 
         FragmentManager fm = getSupportFragmentManager();
         Fragment header = fm.findFragmentById(R.id.username_textview);

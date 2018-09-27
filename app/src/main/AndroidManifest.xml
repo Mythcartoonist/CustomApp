@@ -22,7 +22,7 @@
         <activity android:name=".DisplayUsername" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".SessionList" />
-        <activity android:name=".NewCustomer"></activity>
+        <activity android:name=".NewCustomer" />
     </application>
 
 </manifest>

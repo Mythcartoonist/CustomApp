@@ -11,7 +11,7 @@ public class Billing extends FragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_billing);
+        setContentView(R.layout.billing);
 
         FragmentManager fm = getSupportFragmentManager();
         Fragment header = fm.findFragmentById(R.id.username_textview);

@@ -10,7 +10,7 @@ public class CustomerPage extends FragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_customer_page);
+        setContentView(R.layout.customer_page);
 
         FragmentManager fm = getSupportFragmentManager();
         Fragment header = fm.findFragmentById(R.id.username_textview);
